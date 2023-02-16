@@ -1,0 +1,83 @@
+
+zhuzi.png
+size: 990,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuzhi_l1
+  rotate: true
+  xy: 231, 379
+  size: 197, 422
+  orig: 197, 422
+  offset: 0, 0
+  index: -1
+liuzhi_l2
+  rotate: true
+  xy: 487, 285
+  size: 92, 283
+  orig: 92, 283
+  offset: 0, 0
+  index: -1
+liuzhi_l3
+  rotate: false
+  xy: 0, 166
+  size: 229, 410
+  orig: 229, 410
+  offset: 0, 0
+  index: -1
+liuzhi_l5
+  rotate: true
+  xy: 231, 213
+  size: 164, 254
+  orig: 164, 254
+  offset: 0, 0
+  index: -1
+liuzhi_r1
+  rotate: false
+  xy: 335, 26
+  size: 184, 185
+  orig: 184, 185
+  offset: 0, 0
+  index: -1
+liuzhi_r2
+  rotate: true
+  xy: 783, 497
+  size: 79, 207
+  orig: 79, 207
+  offset: 0, 0
+  index: -1
+liuzhi_r3
+  rotate: false
+  xy: 521, 27
+  size: 245, 256
+  orig: 245, 256
+  offset: 0, 0
+  index: -1
+liuzhi_r4
+  rotate: false
+  xy: 0, 0
+  size: 333, 164
+  orig: 333, 164
+  offset: 0, 0
+  index: -1
+liuzhi_r5
+  rotate: true
+  xy: 768, 40
+  size: 78, 217
+  orig: 78, 217
+  offset: 0, 0
+  index: -1
+liuzhi_r6
+  rotate: false
+  xy: 655, 383
+  size: 126, 193
+  orig: 126, 193
+  offset: 0, 0
+  index: -1
+luizhi_l4
+  rotate: false
+  xy: 772, 120
+  size: 216, 261
+  orig: 216, 261
+  offset: 0, 0
+  index: -1
